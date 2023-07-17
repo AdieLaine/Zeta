@@ -22,6 +22,7 @@ This repository is home to a collection of logical resources related to a hypoth
 
 
 ![$Alt text$](zeta.png)![Alt text](images/zeta.png)
+
 ## Key Concepts
 ## Riemann Zeta Function
 
