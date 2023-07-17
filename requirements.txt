@@ -6,6 +6,5 @@ pandas==2.0.3
 plotly==5.15.0
 scipy==1.11.1
 sympy==1.12
-fractions
 streamlit==1.24.1
 mpmath==1.3.0
